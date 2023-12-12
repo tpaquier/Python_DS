@@ -38,3 +38,19 @@ Le Ministère en charge de l’Environnement a chargé le Centre Interprofession
 Il est établi à partir à la fois à partir d’une décomposition des émissions nationales de GES au niveau communal et d’informations déjà spatialisées.
 
 Cet inventaire spatialisé a vocation à donner des ordres de grandeur pertinents pour l’année 2016. Il n’a pas le niveau de finesse et de précision des travaux d’inventaire réalisés au niveau territorial par les associations agréées de surveillance de la qualité de l’air (www.atmo-france.org), les agences régionales de l’énergie (www.rare.fr), ou des travaux nationaux à hautes résolutions spatiales et temporelles (projet de grande ampleur type Inventaire National Spatialisé - INS).
+
+
+Code INSEE des régions françaises :
+84 : Auvergne-Rhône-Alpes
+32 : Hauts-de-France
+93 : Provence-Alpes-Côte d'Azur
+44 : Grand Est
+76 : Normandie
+28 : Centre-Val de Loire
+75 : Nouvelle-Aquitaine
+24 : Occitanie
+27 : Bourgogne-Franche-Comté
+53 : Bretagne
+94 : Corse
+52 : Pays de la Loire
+11 : Île-de-France

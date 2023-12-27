@@ -1,41 +1,28 @@
 # Python_DS
 🐍🐍
 
-**Couverture temporelle des tables**
-Effectifs.cvs : 31/12/2015 à 31/12/2021
-Base_pollution.csv : 2016
+
+**Présentation de la table effectifs.csv :**
+Les données sont celles de l'Assurance Maladie du 31/12/2015 au 31/12/2021. On retrouve des variables classiques de structure de la population (à noter que cla_age_5 correspond à la classe d’âge par tranche de 5 ans) et les variables suivantes :
+* patho_niv1: groupe de pathologies 
+* patho_niv2: sous-groupe de pathologies
+* patho_niv3: sous-groupe détaillé de pathologies
+* top: libellé technique de la pathologie
+* Ntop: effectif de patients pris en charge pour la pathologie dont il est question
+* Npop: population de référence
+* prev: prévalence de patients, ou proportion de patients, pris en charge pour la pathologie dont il est question.
+* Niveau prioritaire : niveau de gravité de la maladie, noté de 1 (faible) à 3(fort).
 
 
-**Variables de la table effectifs.csv :**
-
-cla_age_5(classe d’âge par tranche de 5 ans)
-Et :
-* patho_niv1: groupe de pathologies (ou traitements chroniques ou épisodes de soins)
-* patho_niv2: sous-groupe de pathologies (ou traitements chroniques ou épisodes de soins)
-* patho_niv3: sous-groupe détaillé de pathologies (ou traitements chroniques ou épisodes de soins)
-* top: libellé technique de la pathologie (ou traitement chronique ou épisode de soins)
-* Ntop: effectif de patients pris en charge pour la pathologie (ou traitement chronique ou épisode de soins) dont il est question
-* Npop: population de référence qui est celle de la cartographie des pathologies et des dépenses de l’Assurance Maladie
-* prev: prévalence de patients pris en charge pour la pathologie (ou traitement chronique ou épisode de soins) dont il est question
-* Niveau prioritaire : niveau de gravité de la maladie
-
-
-**Variables de la table base_pollution.csv :**
-Les variables de la  table sont celles utilisées pour calculer le potentiel ou pouvoir de réchauffement global (PRG). C'est un indicateur qui vise à regrouper sous une seule valeur l'effet additionné de toutes les substances contribuant à l'accroissement de l'effet de serre (définition de l'INSEE).
-Les variables recouvrent les principales activités humaines à l'origine de la pollution atmosphérique.
+**Présentation de la table base_pollution.csv :**
+Les données de la table base_pollution.csv datent de 2016. Les variables de la  table sont celles utilisées pour calculer le potentiel ou pouvoir de réchauffement global (PRG). C'est un indicateur qui vise à regrouper sous une seule valeur l'effet additionné de toutes les substances contribuant à l'accroissement de l'effet de serre. Les variables recouvrent les principales activités humaines à l'origine de la pollution atmosphérique.
 
 ***!!!! Les unités des chiffres de la table sont introuvables !!!!***
 
 Nous croisons cette base avec notre base principale car la qualité de l'air a des conséquences non négligeables sur la santé des agents. En effet, la pollution de l’air provoque à elle seule près de 6,5 millions de décès chaque année, soit un décès sur huit, ce qui la positionne parmi les principaux risques pour la santé dans le monde (source : https://www.atmo-france.org).
+
 Lien pour des chiffres clés sympas : https://www.atmo-france.org/article/chiffres-cles
 
-**Description de la table base_pollution.csv :**
-
-Le Ministère en charge de l’Environnement a chargé le Centre Interprofessionnel Technique d’Etudes de la Pollution Atmosphérique (CITEPA) d’une mission de « territorialisation » – ou « spatialisation » - de l’_inventaire national de GES_. La résolution spatiale est communale, structures stables dans le temps et ensuite agrégeables par EPCI.
-
-Il est établi à partir à la fois d’une décomposition des émissions nationales de GES au niveau communal et d’informations déjà spatialisées.
-
-Cet inventaire spatialisé a vocation à donner des ordres de grandeur pertinents pour l’année 2016. Il n’a pas le niveau de finesse et de précision des travaux d’inventaire réalisés au niveau territorial par les associations agréées de surveillance de la qualité de l’air (www.atmo-france.org), les agences régionales de l’énergie (www.rare.fr), ou des travaux nationaux à hautes résolutions spatiales et temporelles (projet de grande ampleur type Inventaire National Spatialisé - INS).
 
 
 CODE THEO :

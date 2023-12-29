@@ -9,3 +9,5 @@ On fera d'abord des stats desc pour observer d'éventuelles tendances
 Puis on se penchera sur quelques études de cas pour voir ce qu'il est possible ou d'inférer de l'études du département 
 On fera enfin du clustering pour avoir une unité des variables importantes 
 
+Cela se matérialisera par deux parties distinces, la premiere qui portera sur les statistiques descriptives et les études de cas. La seconde qui portera sur la modélisation et le clustering. Par ailleurs il existera une troisieme base 'main' qui expliquera l'origine de l'ensemble des bases de données utilisées et precisera l'ensemble des opérations qui ont été réalisées sur elles. 
+

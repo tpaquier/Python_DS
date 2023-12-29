@@ -5,11 +5,7 @@ Nous nous sommes alors demandé sans préjugés ni certitude de résulats ce que
 
 Cela passe par plusieurs étapes :
 
-des stats desc pour observer d'éventuelles tendances
-complétées par des études de cas afin de vérifier si les particularités d'un departement peuvent permettre de "PREDIRE" la répartition des maladies
-du clustering pour dire qu'au fond c'est surtout l'âge qui décide 
-parler de comment ces var lourdes se traduisent dans le dep
-
-Idée sous jacente 
-bretagne : peut on inférer la porportion de telle ou telle maladie à l'aide d'une varibale saillante du département 
+On fera d'abord des stats desc pour observer d'éventuelles tendances
+Puis on se penchera sur quelques études de cas pour voir ce qu'il est possible ou d'inférer de l'études du département 
+On fera enfin du clustering pour avoir une unité des variables importantes 
 

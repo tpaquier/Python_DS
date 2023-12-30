@@ -10,7 +10,7 @@ Or la pollution n’est pas la seule variable qui crée des inégalités de nive
 En nous plaçant à l’échelle départementale, nous nous sommes demandés, sans préjugés ni certitude de résultats, ce que nous pouvions tirer d'une étude spatiale des maladies. Nous nous concentrons sur des maladies graves et relativement communes, comme les cancers, et non les pathologies courantes comme les rhumes ou la grippe. Remarquons-nous des particularités dans la proportion et la répartition des maladies en fonction des départements ? Est-il possible de regarder quelques caractéristiques ou variables saillantes d'un département et en conclure à une prépondérance de certaines pathologies ?
 
 
-Nous nous demanderons ainsi si le départemennt est une unité spatiale et un objet conceptuel intéressant à analyser du point de vue de la santé du publique pour mettre en valeur l'apparition, la proportion et la répartition dans la population des maladies. 
+Nous nous demanderons ainsi si le département est une unité spatiale et un objet conceptuel intéressant à analyser du point de vue de la santé du publique pour mettre en valeur l'apparition, la proportion et la répartition dans la population des maladies. 
 
 
 

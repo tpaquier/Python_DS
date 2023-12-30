@@ -2,27 +2,7 @@
 🐍🐍
 
 
-**Présentation de la table effectifs.csv :**
-Les données sont celles de l'Assurance Maladie du 31/12/2015 au 31/12/2021. On retrouve des variables classiques de structure de la population (à noter que cla_age_5 correspond à la classe d’âge par tranche de 5 ans) et les variables suivantes :
-* patho_niv1: groupe de pathologies 
-* patho_niv2: sous-groupe de pathologies
-* patho_niv3: sous-groupe détaillé de pathologies
-* top: libellé technique de la pathologie
-* Ntop: effectif de patients pris en charge pour la pathologie dont il est question
-* Npop: population de référence
-* prev: prévalence de patients, ou proportion de patients, pris en charge pour la pathologie dont il est question.
-* Niveau prioritaire : niveau de gravité de la maladie, noté de 1 (faible) à 3(fort).
-
-
-**Présentation de la table base_pollution.csv :**
-Les données de la table base_pollution.csv datent de 2016. Les variables de la  table sont celles utilisées pour calculer le potentiel ou pouvoir de réchauffement global (PRG). C'est un indicateur qui vise à regrouper sous une seule valeur l'effet additionné de toutes les substances contribuant à l'accroissement de l'effet de serre. Les variables recouvrent les principales activités humaines à l'origine de la pollution atmosphérique.
-
-***!!!! Les unités des chiffres de la table sont introuvables !!!!***
-
-Nous croisons cette base avec notre base principale car la qualité de l'air a des conséquences non négligeables sur la santé des agents. En effet, la pollution de l’air provoque à elle seule près de 6,5 millions de décès chaque année, soit un décès sur huit, ce qui la positionne parmi les principaux risques pour la santé dans le monde (source : https://www.atmo-france.org).
-
 Lien pour des chiffres clés sympas : https://www.atmo-france.org/article/chiffres-cles
-
 
 
 CODE THEO :

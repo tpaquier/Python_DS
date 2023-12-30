@@ -14,14 +14,15 @@ Nous nous demanderons ainsi si le département est une unité spatiale et un obj
 
 
 
-On chechera dans un première partie, par le biais de quelques statistiques descriptives et deux études de cas portant sur quelques variables caractérisant le département, à déterminer si on doit s'attendre ou non à pouvoir inférer plus ou moins bien de l'état de santé et des pratiques médicales de la population d'un département. Après avoir dressé un premier constat, nous chercherons à l'inverse à déterminer par une modélisation plus poussée en quoi l'état de santé du département n'est que le reflet de l'expressions de quelques variables précises et assez peu explicatives en réalité.
+On chechera dans un première partie, par le biais de quelques statistiques descriptives et de deux études de cas portant sur quelques variables caractérisant le département, à déterminer si on doit s'attendre ou non à pouvoir inférer plus ou moins bien de l'état de santé et des pratiques médicales de la population d'un département. Après avoir dressé un premier constat, nous chercherons à l'inverse à déterminer par une modélisation plus poussée en quoi l'état de santé du département n'est que le reflet de l'expression de quelques variables précises et assez peu explicatives en réalité.
 
 
 
-Cela se matérialisera en terme de code par trois parties distinctes: 
+Cela se matérialisera ainsi en terme de code :
 
 ***Le notebook nommé 'main'**, expliquant l'origine des bases de données et precisant les opérations qui y ont été réalisées, **doit tourner en premier** pour faire fonctionner les autres notebooks.*
 
+On aura ensuite les trois parties qui constituent le coeur du projet :
 La première porte sur les statistiques descriptives et les études de cas.
 La seconde porte sur la modélisation et le clustering.
 La troisième enfin donne des éléments de visualisation et doit être vue comme complémentaire à la partie 2 dans la mesure ou elle met en lumière ses résultats.
